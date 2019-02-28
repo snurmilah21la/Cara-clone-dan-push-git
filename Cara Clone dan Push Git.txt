@@ -1,0 +1,27 @@
+Nama : Siti Nurmilah Latuapo
+Rombel : RPL XI-2
+
+cara clone
+
+1. buka github teman, lalu buka repositories-nya
+2. pilih projek yang akan di clone
+3. klik clone or download, lalu paste url nya
+4. klik kanan file "hasil clone git" lalu pilih Git Bash Here
+5. ketik "git clone url" lalu tekan enter.
+selesai
+
+
+cara push projek:
+
+1. buka github, lalu pilih repositories
+2. buat repositories baru lalu copy url repositories-nya
+3. pilih projek yang akan dipilih
+4. klik kanan file yang akan di push
+5. pilih Git Bash Here lalu ketikan ini:
+
+- git init, enter
+- git add *, enter
+- git commit -m "komentar", enter
+- git remote add origin urlrepositories, enter
+- git push origin master, enter
+selesai
